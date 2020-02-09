@@ -1,4 +1,4 @@
-const body = document.querySelector("body");
+const body = document.querySelector(".wrapper");
 
 const IMG_NUMBER = 3;
 
